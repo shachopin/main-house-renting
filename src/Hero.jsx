@@ -4,7 +4,7 @@ const Hero = () => {
     <section className='hero'>
       <div className='hero-center'>
         <div className='hero-title'>
-          <h1>Contentful Headless CMS</h1>
+          <h1>Contentful CMS</h1>
           <p>
             Single-origin coffee deep v sus small batch. Gorpcore vape
             lumbersexual normcore four dollar toast drinking vinegar. Twee 90's

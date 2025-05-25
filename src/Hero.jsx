@@ -6,7 +6,7 @@ const Hero = () => {
         <div className='hero-title'>
           <h1>Contentful CMS</h1>
           <p>
-            Single-origin coffee deep v sus small batch. Gorpcore vape
+            Hi Dawei Single-origin coffee deep v sus small batch. Gorpcore vape
             lumbersexual normcore four dollar toast drinking vinegar. Twee 90's
             taiyaki small batch bitters, bespoke jianbing leggings marxism
             keytar pabst adaptogen mixtape tumblr stumptown. DSA twee iceland
